@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.qaymaq:hover{
+    width: 300px;
+    height: 433px;
+    background-color: wheat;
+    color: wheat;
+    margin: auto;
+    padding-top: 111px;
+    padding-top: 111px;
+    border-top-left-radius: 40%;
+    border-top-right-radius: 40%;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 12%;
+}
+.tayaq:active{
+    width: 100px;
+    height: 200px;
+    background-color: red;
+    margin: auto;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    
+}
